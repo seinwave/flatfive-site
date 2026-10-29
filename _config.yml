@@ -1,10 +1,8 @@
 title: FlatFive
 description: Jazz chord flashcards for iPhone and iPad
 author: Matt Seidholz
-# Served from GitHub Pages at seinwave.github.io/flatfive-site until the domain is live.
-# When flatfive.pro resolves: set baseurl to "" and add a CNAME file (see README).
-url: "https://seinwave.github.io"
-baseurl: "/flatfive-site"
+url: "https://flatfive.pro"
+baseurl: ""
 
 support_email: support@flatfive.pro
 
